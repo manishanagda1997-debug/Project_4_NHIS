@@ -1,4 +1,4 @@
-# Flipkart Smartphone Price Analysis — EDA Project
+# Flipkart Smartphone Price Analysis using Feature Engineering and EDA
 
 ## Project Overview
 
