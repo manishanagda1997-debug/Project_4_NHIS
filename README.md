@@ -71,7 +71,7 @@ New features are built from the raw columns to make the analysis more useful:
 ### Data Cleaning Impact
 
 <p align="center">
-  <img src="Images/Outliers treatment - Mobile height.png" width="600">
+  <img src="Outliers treatment - Mobile height.png" width="600">
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ How each feature relates to price:
 ### Brand Distribution
 
 <p align="center">
-  <img src="Images/Top 10 smartphones brand.png" width="600">
+  <img src="Top 10 smartphones brand.png" width="600">
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ How each feature relates to price:
 ### Feature Relationships
 
 <p align="center">
-  <img src="Images/Feature correlation matrix.png" width="600">
+  <img src="Feature correlation matrix.png" width="600">
 </p>
 
 <p align="center">
