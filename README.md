@@ -16,10 +16,10 @@ The focus is not only on numbers, but on patterns, how brands, features, and tec
  flipkart-smartphone-eda
  ┣ Flipkart_Smartphones_EDA.ipynb
  ┣ Processed_Flipdata.xlsx
- ┗ README.md  
+ ┣ Flipkart_Smartphones_EDA.pptx
+ ┗ README.md
+ 
 ```
-
----
 
 ## Dataset
 
