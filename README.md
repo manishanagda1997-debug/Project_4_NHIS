@@ -56,7 +56,7 @@ New features are built from the raw columns to make the analysis more useful:
 ### Feature Trends by Price Segment
 
 <p align="center">
-  <img src="Images/Feature averages by price tier.png" width="600">
+  <img src="Feature averages by price tier.png" width="600">
 </p>
 
 <p align="center">
