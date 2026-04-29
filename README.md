@@ -27,7 +27,7 @@ The focus is not only on numbers, but on patterns, how brands, features, and tec
 |---|---|
 | Source | Flipkart smartphone listings |
 | Total rows | 541 |
-| Total columns | 11 |
+| Total columns | 12 |
 | Price range | ₹920 — ₹80,999 |
 
 **Original columns:**
